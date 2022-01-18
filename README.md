@@ -1,5 +1,7 @@
 # Statistical-Analysis  
 
+# Note: As notebook is not rendering correctly, please download the file to view the correct version of the Jupyter notebook.
+
 ## Background
 Cookie Cats is a popular mobile puzzle game where players complete a task and level up. While players completes levels, they encounter gates after completing certain number of levels. Gates force players to wait for sometime before they can playfurther or make in game purchases. 
 
